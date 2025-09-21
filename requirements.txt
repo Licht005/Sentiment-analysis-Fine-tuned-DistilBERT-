@@ -1,0 +1,10 @@
+torch
+transformers[torch]
+datasets
+scikit-learn
+accelerate
+numpy<2  # keep compatibility with some packages like mediapipe
+tqdm
+pyyaml
+regex
+requests
