@@ -113,7 +113,5 @@ print(classifier("Oh wow,I really enjoyed this movie!"))
 - Training with GPU (CUDA) is much faster. On CPU, expect longer training times.
 
 ---
-
-👨‍💻 Author: *Lucas W. K.*  
 📅 Date: 2025
 
