@@ -11,7 +11,7 @@ HuggingFace Sentiment analysis/
 │
 ├── outputs/                  # Saved model checkpoints and final fine-tuned model
 │   ├── checkpoint-500/       # Intermediate checkpoint (example)
-│   └── fine_tuned_distilbert/ # Final fine-tuned model (ready to load)
+│   └── fine_tuned_distilbert/ # Final fine-tuned model (would be created after you run codes)
 │
 ├── src/
 │   ├── train.py              # Script for training & fine-tuning
