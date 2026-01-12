@@ -98,7 +98,7 @@ model = AutoModelForSequenceClassification.from_pretrained(model_path)
 
 classifier = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
 
-print(classifier("I really enjoyed this movie!"))
+print(classifier("Oh wow,I really enjoyed this movie!"))
 ```
 
 ---
